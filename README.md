@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 ![Captura de Roshi](https://github.com/LuisMartinez14/Roshi-Proyecto/assets/143353447/6e6cab0e-aee6-4d2f-a557-b9cc5b529413)
 
 _Recordatorio:_
-_Darle estilo al boton comenzemos_
+_Darle estilo al boton entrenar_
